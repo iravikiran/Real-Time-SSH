@@ -1,3 +1,20 @@
+"""
+    This is a Code to scrape some trace and log all the IP addresses
+    connected to a Target System, and then process the data for user
+    read able on a HTML page. 
+    Usage :
+    	python3 <SSH-Trace.py>
+        Do check the README.md file for more information. 
+    
+    Feel-Free to modify the HTML part for your needs, such as Color scheme
+    and fonts and table sizes. Change the time.sleep for required timeout 
+    ranges to generate HTML file. 
+    
+    IG : ravikiran.me
+    Web: https://ravi-kiran.me/
+    
+"""
+
 import subprocess as sp
 import time
 
