@@ -9,7 +9,7 @@ Python v3.7.x+
 2. Once executed above, generates a .HTML file to log all the active SSH connections in real time. 
 3. The HTML page can be viewed in Browser.
 
-# TODO - New Updates.
+# TODO - Future Updates.
 1. Auto Page Refresh on HTML 
 2. Log Target System IP Adress.
 3. connected pts terminal device id
